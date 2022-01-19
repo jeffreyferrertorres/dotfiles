@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jeffreyferrertorres@gmail.com
+	name = jeffrey ferrer
